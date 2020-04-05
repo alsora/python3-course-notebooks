@@ -28,7 +28,7 @@ This will open a Browser window, where you will see the content of this reposito
 Select an exercise folder and open the file terminating in `.ipynb`.
 
 **NOTE:** every time you start a new lesson it's suggested to make a copy of it.
-You can do that after opening the lesson in the browser by clicking `File`-> `Make a copy` in the nav bar at the top.
+You can do that after opening the lesson in the browser by clicking `File` -> `Make a copy` in the nav bar at the top.
 This has 2 purposes: allows you to easily return to a clean stage if you messed around too much and also it simplifies how you can receive updates.
 
 ## Updating the course
